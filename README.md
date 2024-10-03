@@ -3,9 +3,10 @@ Linux-IPC-Pipes
 
 
 # Ex03-Linux IPC - Pipes
- #REG NO-212223240164
- 
- #NAME: SUNIL KUMAR T
+
+REG NO-212223240164
+
+NAME: SUNIL KUMAR T
 
 
 # AIM:
